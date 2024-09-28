@@ -1,0 +1,34 @@
+@import './base.css';
+
+#app {
+  @apply min-h-screen bg-emerald-200 flex justify-center items-center;
+  width: 40%;
+  max-width: 1280px;
+  margin: 0 auto;
+  font-weight: normal;
+  background-color: #a7f3d0;
+}
+
+@media (min-width: 1024px) {
+  body {
+    @apply min-h-screen flex justify-center items-center;
+    background-color: #a7f3d0;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    @apply min-h-screen flex justify-center items-center;
+    background-color: #a7f3d0;
+  }
+}
+
+@media (min-width: 425px) {
+  body {
+    @apply min-h-screen flex justify-center items-center;
+    background-color: #a7f3d0;
+  }
+}
+.date-picker-class {
+  position: absolute;
+  z-index: 1000;
+}
