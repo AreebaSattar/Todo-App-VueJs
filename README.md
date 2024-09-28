@@ -26,7 +26,6 @@ The **TODO App** is a simple task management application built using Vue.js. It 
    cd <repository-folder>
 2. Install dependencies:
    ```bash
-   Copy code
    npm install
 3. Start the development server:
    ```bash
