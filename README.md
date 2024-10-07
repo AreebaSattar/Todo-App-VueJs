@@ -3,8 +3,8 @@
 ## Overview
 
 The **TODO App** is a simple task management application built using Vue.js. It allows users to categorize tasks, add due dates, mark tasks as completed, and delete tasks.
-<img src="https://github.com/AreebaSattar/Todo-App-VueJs//blob/master/app/photo5.PNG?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true" width="1000">
+
+<img src="https://github.com/AreebaSattar/Todo-App-VueJs/blob/main/app/photo5.PNG?raw=true" width="1000">
 
 ## Features
 
