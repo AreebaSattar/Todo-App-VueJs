@@ -1,5 +1,9 @@
 # TODO App
 
+## Live Demo
+Check out the live version of the project here: [To-Do App](https://todo-app-vue-js-beige.vercel.app/)
+
+
 ## Overview
 
 The **TODO App** is a simple task management application built using Vue.js. It allows users to categorize tasks, add due dates, mark tasks as completed, and delete tasks.
